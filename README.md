@@ -12,11 +12,8 @@ A music app that plays Xylophone sounds.
 # Demo
 How the app looks in iOS:
 
-link
+![screen_recording](https://user-images.githubusercontent.com/22214915/117070041-87e50980-ad2d-11eb-9ad4-1527990d5e90.gif)
 
-How the app looks in Android:
-
-link
 
 ___
 [Source to the original project by App Brewery](https://github.com/londonappbrewery/xylophone-flutter)
